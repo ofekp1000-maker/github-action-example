@@ -1,7 +1,6 @@
 name: hello-actions
 
-on:
-  push:
+on: [push]
 
 jobs:
   hello:
